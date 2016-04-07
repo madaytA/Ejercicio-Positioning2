@@ -1,0 +1,25 @@
+.rojo{
+	background-color: #DF0101;
+	height: 400px;
+	width: 400px;
+	/*border: 2px solid #DF0101;*/
+	position: absolute;
+}
+.morado{
+	background-color: #9628B5;
+	height: 200px;
+	width: 200px;
+	position: static;
+	margin: 100px;
+	
+}
+.amarillo{
+	background-color: #FFFB12;
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+/* Inserta tu CSS aqui */

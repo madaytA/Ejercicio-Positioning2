@@ -1,0 +1,23 @@
+div{
+	background-color: #DF0101;
+	height: 400px;
+	width: 400px;
+	border: 2px solid #DF0101;
+	position: static;
+}
+.morado{
+	background-color: #9628B5;
+	border: 1px solid #9628B5;
+	height: 200px;
+	width: 200px;
+	position: relative;
+	top: 100px;
+	left: 100px;
+}
+.amarillo{
+	background-color: #FFFB12;
+	border: 2px solid #FFFB12;
+	height: 100px;
+	width: 100px;
+	position: absolute;
+}/* Inserta tu CSS aqui */
